@@ -1,8 +1,8 @@
-Course Project
+# Course Project
 
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
-Dataset Description
+## Dataset Description
 
 The project taps into an exciting area of wearable computing, where a number of big brands compete to develop clever algorithms. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -12,7 +12,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Requirements
+# Requirements
 
 Create an R script called run_analysis.R that does the following:
 
@@ -22,7 +22,7 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Project Outcome
+# Project Outcome
 
 In sync with the requirements this project comprises:
 
